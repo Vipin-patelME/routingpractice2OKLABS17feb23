@@ -1,0 +1,22 @@
+.header-comp{
+    height: 100px;
+    width: 100%;
+    background-color: lightgreen;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.button-list{
+    display: flex;
+    width: 40%;
+    justify-content: space-around;
+    list-style-type: none;
+}
+.list-items{
+    color: #ffffff;
+    font-size: 24px;
+    font-weight: bold;
+}
+.home-lik{
+    text-decoration: none;
+}
