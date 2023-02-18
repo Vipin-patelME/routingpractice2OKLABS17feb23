@@ -1,0 +1,26 @@
+.home-cont{
+    min-height: 80vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.imag-style{
+    height: 170px;
+}
+.contact-us-para{
+    font-size: 19px;
+}
+.gmail-spa{
+    font-size: 20px;
+    color: rgb(63, 28, 3);
+    font-weight: 530;
+}
+.call-now-btn{
+    height: 40px;
+    width: 180px;
+    background-color: green;
+    border-style: none;
+    color: #ffffff;
+    font-size: 20px;
+    border-radius: 6px;
+}

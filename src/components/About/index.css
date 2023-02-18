@@ -1,0 +1,14 @@
+.home-cont{
+    display: flex;
+    align-items: center;
+    background-color: cornflowerblue;
+}
+.imag-style{
+    height: 170px;
+}
+.stay-para{
+    font-size: 22px;
+    font-weight: 530;
+    color: brown;
+    text-align: center;
+}
